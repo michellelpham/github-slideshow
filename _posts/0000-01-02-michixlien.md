@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "8gsbdygbcvjabiuca!"
 ---
-Your text
+uisdvgclui iusadgcxliuWBD AKSDJGCILuwbadc
 Use the left arrow to go back!
